@@ -20,7 +20,7 @@ The following **additional** features are implemented:
 
 ## Notes
 The view screen in Xcode did not line up exactly like the iphone simulator, had to shift some items around to show all components in the simulator. 
-I used this person's code as a template and modified it as needed: http://helpmecodeswift.com/app-examples/tip-calculator/tip-calculator-app
+I used this person's code as a template and modified it as needed: http://helpmecodeswift.com/app-examples/tip-calculator/tip-calculator-app.
 One issue that still remains is that the Tap Gesture doesn't seem to work so the user can not get rid of the keyboard once activated.
 
 ## License
