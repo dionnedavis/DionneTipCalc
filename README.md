@@ -18,6 +18,14 @@ The following **additional** features are implemented:
 - [ ] App shows tip amount per person
 - [ ] App shows total amount per person
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src = 'file:///Users/DionneDavis/Documents/Tip%20Calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Notes
 The view screen in Xcode did not line up exactly like the iphone simulator, had to shift some items around to show all components in the simulator. 
 I used this person's code as a template and modified it as needed: http://helpmecodeswift.com/app-examples/tip-calculator/tip-calculator-app.
